@@ -2809,9 +2809,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 dedent@^0.7.0:
   version "0.7.0"
@@ -8756,6 +8756,11 @@ vue-transition-css@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/vue-transition-css/-/vue-transition-css-1.0.5.tgz#77531f83f505c46a9721debccc185988e9b28797"
   integrity sha512-Gvjoqy/vrdYRnyvtjFECuJ2CiE8ER7NRm/Kj3NmM2QJ8QyVGERintAdZqNhGsZMFfroFjzxt0Xu0eOZtYXmOKg==
+
+vue-transition.css@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vue-transition.css/-/vue-transition.css-1.0.2.tgz#b6df1f6f0dbe59b0dafa52fe180e19cc83823c7e"
+  integrity sha512-jXkgE8DeBnCvLFSTbIRFUXdopGN6ygkHWFBEkcTq29jC2KcABzNHsdm7LRaAYQF4EmaWNsUDOfsp/aB4xFhTjQ==
 
 vue@^2.5.10, vue@^2.5.17:
   version "2.5.21"
