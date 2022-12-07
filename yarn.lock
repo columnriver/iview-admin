@@ -7064,9 +7064,9 @@ qs@6.5.2, qs@~6.5.2:
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
-  integrity sha1-E+JtKK1rD/qpExLNO/cI7TUecjM=
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
+  integrity sha512-LQy1Q1fcva/UsnP/6Iaa4lVeM49WiOitu2T4hZCyA/elLKu37L99qcBJk4VCCk+rdLvnMzfKyiN3SZTqdAZGSQ==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
@@ -8756,6 +8756,11 @@ vue-transition-css@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/vue-transition-css/-/vue-transition-css-1.0.5.tgz#77531f83f505c46a9721debccc185988e9b28797"
   integrity sha512-Gvjoqy/vrdYRnyvtjFECuJ2CiE8ER7NRm/Kj3NmM2QJ8QyVGERintAdZqNhGsZMFfroFjzxt0Xu0eOZtYXmOKg==
+
+vue-transition.css@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vue-transition.css/-/vue-transition.css-1.0.2.tgz#b6df1f6f0dbe59b0dafa52fe180e19cc83823c7e"
+  integrity sha512-jXkgE8DeBnCvLFSTbIRFUXdopGN6ygkHWFBEkcTq29jC2KcABzNHsdm7LRaAYQF4EmaWNsUDOfsp/aB4xFhTjQ==
 
 vue@^2.5.10, vue@^2.5.17:
   version "2.5.21"
